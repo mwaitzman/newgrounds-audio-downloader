@@ -1,0 +1,3 @@
+<p style="display: none;">
+	Nothing matches your filters / search terms.
+</p></div>
